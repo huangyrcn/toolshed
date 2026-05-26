@@ -9,7 +9,7 @@
       "name": "paper-skills",
       "source": {
         "source": "github",
-        "repo": "OWNER/paper-skills"
+        "repo": "huangyrcn/paper-skills"
       },
       "description": "Academic paper workflow: search, acquire, read notes, repo discovery, PDF-to-markdown."
     }
