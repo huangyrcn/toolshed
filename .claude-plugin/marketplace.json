@@ -1,0 +1,17 @@
+{
+  "name": "toolshed",
+  "owner": {
+    "name": "ray"
+  },
+  "description": "Personal Claude Code plugin collection.",
+  "plugins": [
+    {
+      "name": "paper-skills",
+      "source": {
+        "source": "github",
+        "repo": "OWNER/paper-skills"
+      },
+      "description": "Academic paper workflow: search, acquire, read notes, repo discovery, PDF-to-markdown."
+    }
+  ]
+}
