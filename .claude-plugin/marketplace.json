@@ -20,6 +20,14 @@
         "repo": "huangyrcn/citation-double-check"
       },
       "description": "Verify academic citations: parse references, fetch evidence, check claims against sources, suggest repairs."
+    },
+    {
+      "name": "web-kit",
+      "source": {
+        "source": "github",
+        "repo": "huangyrcn/web-kit"
+      },
+      "description": "Lightweight web search + scraping + download: SearxNG metasearch, crawl4ai rendering, CDP file download."
     }
   ]
 }
