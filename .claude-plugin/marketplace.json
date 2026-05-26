@@ -12,6 +12,14 @@
         "repo": "huangyrcn/paper-skills"
       },
       "description": "Academic paper workflow: search, acquire, read notes, repo discovery, PDF-to-markdown."
+    },
+    {
+      "name": "citation-double-check",
+      "source": {
+        "source": "github",
+        "repo": "huangyrcn/citation-double-check"
+      },
+      "description": "Verify academic citations: parse references, fetch evidence, check claims against sources, suggest repairs."
     }
   ]
 }
